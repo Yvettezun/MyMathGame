@@ -3,4 +3,4 @@ This project was built with the intention of helping children improve their math
 ## Technologies 
 This project was built using Kotlin. 
 ## Collaborators
-This project was completed in a group of 5 as part of our capstone course at UNT Dallas. 
+This project was completed in a group of 5 as part of our capstone course at UNT Dallas. Group members are: Aboubacar Nguessan, Benjamin Jensen,Yvette Zuniga,Temitope Adekoya and Noel Milan. 
