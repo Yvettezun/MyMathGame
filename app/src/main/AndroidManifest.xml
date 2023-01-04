@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApplication">
+        <activity
+            android:name=".Pro3Result2"
+            android:exported="false" />
+        <activity
+            android:name=".Pro3Result1"
+            android:exported="false" />
+        <activity
+            android:name=".Pro2Result2"
+            android:exported="false" />
+        <activity
+            android:name=".Pro2Result1"
+            android:exported="false" />
+        <activity
+            android:name=".ProResult2"
+            android:exported="false" />
+        <activity
+            android:name=".ProResult1"
+            android:exported="false" />
+        <activity
+            android:name=".Semi3Result2"
+            android:exported="false" />
+        <activity
+            android:name=".Semi3Result1"
+            android:exported="false" />
+        <activity
+            android:name=".Semi2Result2"
+            android:exported="false" />
+        <activity
+            android:name=".Semi2Result1"
+            android:exported="false" />
+        <activity
+            android:name=".SemiResult2"
+            android:exported="false" />
+        <activity
+            android:name=".SemiResult1"
+            android:exported="false" />
+        <activity
+            android:name=".Amateur3Result2"
+            android:exported="false" />
+        <activity
+            android:name=".Amateur3Result1"
+            android:exported="false" />
+        <activity
+            android:name=".AmateurResult2"
+            android:exported="false" />
+        <activity
+            android:name=".AmateurResult1"
+            android:exported="false" />
+        <activity
+            android:name=".Professional3"
+            android:exported="false" />
+        <activity
+            android:name=".Professional2"
+            android:exported="false" />
+        <activity
+            android:name=".Professional"
+            android:exported="false" />
+        <activity
+            android:name=".SemiPro3"
+            android:exported="false" />
+        <activity
+            android:name=".SemiPro2"
+            android:exported="false" />
+        <activity
+            android:name=".Amateur3"
+            android:exported="false" />
+        <activity
+            android:name=".Amateur2"
+            android:exported="false" />
+        <activity
+            android:name=".Result2"
+            android:exported="false" />
+        <activity
+            android:name=".SemiPro"
+            android:exported="false" />
+        <activity
+            android:name=".ResultActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Amateur"
+            android:exported="false" />
+        <activity
+            android:name=".MainPage"
+            android:exported="false" />
+        <activity
+            android:name=".createAcct"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

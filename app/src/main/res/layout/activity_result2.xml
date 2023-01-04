@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Result2"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="Result"
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:id="@+id/trophy"
+        android:layout_width="165dp"
+        android:layout_height="117dp"
+        android:contentDescription="image"
+        android:src="@drawable/study" />
+
+    <TextView
+        android:id="@+id/sorry"
+        android:layout_width="wrap_content"
+        android:layout_height="47dp"
+        android:layout_marginTop="16dp"
+        android:text="Sorry, You need more practice!"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_score1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="score"
+        android:textSize="20sp" />
+    <TextView
+        android:id="@+id/link"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Practice Here!\nLearn Addition: \nhttps://youtu.be/tVHOBVAFjUw
+          \nLearn Subtraction: \nhttps://youtu.be/rqiu_xcvSk4"
+        android:autoLink="web"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/retry"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Retry"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

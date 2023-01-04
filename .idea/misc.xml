@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-hdpi/correct_option_border_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-hdpi/selected_option_border_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-hdpi/wrong_option_border_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1815" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/button_background.xml" value="0.1765" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/default_option_border_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1815" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/login_edit_background.xml" value="0.1815" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout-land/activity_main_page.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_amateur.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_amateur2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_amateur3.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_amateur3_result1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_amateur3_result2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_amateur_result1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_amateur_result2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_create_acct.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main_page.xml" value="0.25" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_pro2_result1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_pro2_result2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_pro3_result1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_pro3_result2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_pro_result1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_pro_result2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_professional.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_professional2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_professional3.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_result.xml" value="0.11730072463768115" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_result2.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi2_result1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi2_result2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi3_result1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi3_result2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi_pro.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi_pro2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi_pro3.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi_result1.xml" value="0.1796875" />
+        <entry key="..\:/Users/Yvette .DESKTOP-FNTLMQ3/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_semi_result2.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
